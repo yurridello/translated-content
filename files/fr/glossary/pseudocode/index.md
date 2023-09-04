@@ -1,4 +1,4 @@
----
+pseudo---
 title: Pseudo-code
 slug: Glossary/Pseudocode
 ---
